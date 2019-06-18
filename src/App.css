@@ -1,0 +1,25 @@
+.App {
+  background-color: #282c34;  
+  color: white;
+}
+.table-dark {
+  color: #fff;
+  background-color: #282c34 !important;
+}
+.table-invoice > thead > tr > th{
+  border-top:none;
+  font-size:80%;
+  color:#6c757d;
+  font-weight: 400;
+}
+.table-invoice > tfoot > tr > th{
+  font-weight: 400;
+  border-top-color: silver;
+}
+.table-invoice th, .table-invoice td {
+  padding-top: 0.6rem !important;
+  padding-bottom: 0.6rem !important;
+}
+.bt-0{
+  border-top-width: 0 !important
+}
